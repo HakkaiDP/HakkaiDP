@@ -1,4 +1,6 @@
-<video src="C:\Users\Hakkai\Downloads\WhatsApp Video 2024-05-18 at 20.35.04.mp4" alt=video>
+<p align="left">
+  <img align="center" src="" alt="Imagem">
+</p>
 ### Hi👋 I'm Antonio and 
 
 <!--
