@@ -1,13 +1,10 @@
-<p align="left">
-  <img align="center" src="" alt="Imagem">
-</p>
-### Hi👋 I'm Antonio and 
-
+<img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&left=true&left=true&random=false&width=500&lines=Hello+my+name+is+Antonio!" alt="Typing SVG">
+<img align="right" heigth="500px" width="500px" src="https://github.com/HakkaiDP/HakkaiDP/assets/166918368/22dc43fc-e989-4c64-993d-95a6a174197a" width="150" alt="Kazuha">
+</div>
 <!--
 **HakkaiDP/HakkaiDP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
