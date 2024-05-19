@@ -26,5 +26,5 @@ IDEs:
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HakkaiDP/HakkaiDP/output/github-contribution-grid-snake.svg">
 </picture>
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&center=true&center=true&random=false&width=500&lines=Thanks+for+the+attention!!! :)" alt="Typing SVG">
-<img align="right" height="200px" width="200px" src="https://github.com/HakkaiDP/HakkaiDP/assets/166918368/b7c78e73-263c-4d34-809a-7a271eaa73b2">
+<img align="center" src="https://github.com/HakkaiDP/HakkaiDP/assets/166918368/b5d09dfb-b1d0-4523-9927-095b006da042">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF0000&section=footer">
