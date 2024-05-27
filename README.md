@@ -34,7 +34,7 @@ IDEs:
 </div>
 <hr> 
 <div>
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&center=true&center=true&random=false&width=500&lines=Thanks+for+the+attention!!! :)" alt="Typing SVG">
 <img align="center" src="https://github.com/HakkaiDP/HakkaiDP/assets/166918368/b5d09dfb-b1d0-4523-9927-095b006da042">
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&center=true&center=true&random=false&width=500&lines=Thanks+for+the+attention!!! :)" alt="Typing SVG">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF0000&section=footer">
 </div>
