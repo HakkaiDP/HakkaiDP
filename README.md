@@ -3,8 +3,8 @@
 <br>
 <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF3131&left=true&left=true&random=false&width=500&lines=Hello+my+name+is+Antonio!;I+am+15+years+old;Welcome+to+my+profile" alt="Typing SVG"/>
 <br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HakkaiDP&layout=compact&hide_border=false&bg_color=0d1117&icon_color=7203F7FF&text_color=FFFFFF&title_color=FF3131"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=HakkaiDP&show_icons=true&layout=compact&hide_border=false&bg_color=0d1117&icon_color=FF3131&text_color=FFFFFF&title_color=FF3131"/>
-<img alling="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HakkaiDP&layout=compact&hide_border=false&bg_color=0d1117&icon_color=7203F7FF&text_color=FFFFFF&title_color=FF3131"/>
 </div>
 <br>
 <div>
