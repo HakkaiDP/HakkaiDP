@@ -25,7 +25,11 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HakkaiDP&layout=compact&hide_border=false&bg_color=0d1117&icon_color=7203F7FF&text_color=FFFFFF&title_color=FFFFFF"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HakkaiDP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false&order=10" height="200" alt="languages graph"  />
+  
+</div>
+
+###
 
 <hr>
   
