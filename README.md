@@ -1,7 +1,7 @@
 <div style="display: inline-block;">
 <img width=100% src="https://github.com/HakkaiDP/HakkaiDP/assets/166918368/3ed7f5f4-fbec-4b00-adc7-a4b42ef559bd" alt="redbackground">
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF3131&left=true&left=true&random=false&width=500&lines=Hello+my+name+is+Antonio!;I+am+15+years+old;Welcome+to+my+profile" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF3131&left=true&left=true&random=false&width=500&lines=Hello+my+name+is+Antonio!;I+am+16+years+old;Welcome+to+my+profile" alt="Typing SVG"/>
 </div>
 <hr>
 
@@ -25,7 +25,7 @@
 
 <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HakkaiDP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false&order=10" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HakkaiDP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false&order=2" height="200" alt="languages graph"  />
   
 </div>
 
