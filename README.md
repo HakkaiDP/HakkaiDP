@@ -1,9 +1,8 @@
 <div style="display: flex";>
-<h1>Hey, everyone! I'm Antonio</h1>
-<h3>I’m currently learning systems development</h3>
+<h1>Hello!! I'm Antonio</h1>
+<h2>I'm 16 years old</h2>
+<h3>I’m currently studying systems development</h3>
 <br>
-<h1>About me:</h1>
-<h3>I am currently studying systems development at Etec Zona Leste.</h3>
 
 </div>
 
