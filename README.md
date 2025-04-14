@@ -27,7 +27,7 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HakkaiDP&layout=compact&hide_border=false&langs_count=12&locale=pt-br&bg_color=0d1117&icon_color=7203F7FF&text_color=fbf7f8&title_color=fbf7f8" height="200px" alt="languages graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HakkaiDP&layout=compact&hide_border=false&langs_count=12&locale=en&bg_color=0d1117&icon_color=7203F7FF&text_color=fbf7f8&title_color=fbf7f8" height="200px" alt="languages graph"/>
 
 </div>
 
