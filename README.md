@@ -73,8 +73,8 @@
 <div style="display: inline-block;">
   
 <h2>Additional Information:</h2>
-<img src="https://komarev.com/ghpvc/?username=HakkaiDP&color=FF3131"><br>
-<img src="https://github-readme-stats.vercel.app/api?username=HakkaiDP&show_icons=true&layout=compact&hide_border=false&bg_color=0d1117&icon_color=FF3131&text_color=FFFFFF&title_color=FF3131"/>
+<img src="https://komarev.com/ghpvc/?username=HakkaiDP&color=8a2be2"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=HakkaiDP&show_icons=true&layout=compact&hide_border=false&bg_color=0d1117&icon_color=8a2be2&text_color=FFFFFF&title_color=8b008b"/>
 
 </div>
 </div>
