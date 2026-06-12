@@ -4,8 +4,7 @@
 # 👋 Antonio Sena  
 ### Desenvolvedor Back-End
 
-Olá, eu sou o Antonio, sou um **desenvolvedor back-end** com experiência de desenvolvimento em **Java e Spring Boot**. Gosto de estudar fundamentos e o porquê das coisas, já que, _"framework muda, mas a lógica não"_.
-Estudo atualmente na ETEC e produzo projetos com base em tudo o que aprendo, tanto na Etec quando fora dela.
+Olá, eu sou o Antonio, estudo desenvolvimento de sistemas na ETEC da Zona Leste, sou um desenvolvedor back-end que desenvolve projetos em Java, Spring Boot, Docker, SQL e TypeScript, gosto de estudar os fundamentos da programação e entender sobre engenharia de software para escolher as melhores decisões, já que, "framework muda, mas a lógica não".
 
 ---
 
